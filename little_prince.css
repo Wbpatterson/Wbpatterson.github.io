@@ -1,0 +1,23 @@
+div.box {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    display: block;
+    width: 343px;
+    border-top: #F1F1F1;
+    padding: 5px 10px 10px;
+    border-top-style: ridge;
+    border-width: 5px;
+
+}
+
+.center {
+    margin-top: 0;
+    display: block;
+}
+
+#lp {
+    height: 300px;
+    width: 343px;
+}
+
