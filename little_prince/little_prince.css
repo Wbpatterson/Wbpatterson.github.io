@@ -9,7 +9,6 @@ div.box {
     border-top-style: solid;
     border-width: 3px;
     font-stretch: 100%;
-
 }
 
 .left {
@@ -17,7 +16,7 @@ div.box {
     font-family: Times New Roman, sans-serif;
     font-size: 17px;
     white-space: pre-line;
-    line-height: 17px;
+    line-height: 18px;
 }
 
 .red {
@@ -26,7 +25,7 @@ div.box {
 }
 
 #prince {
-    height: 300px;
+    height: 343px;
     width: 370px;
 }
 
